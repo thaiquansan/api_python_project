@@ -1,0 +1,16 @@
+# Core requirements
+streamlit
+plotly
+pandas
+numpy
+
+# API & Web
+requests
+flask
+flask-cors
+
+# AI Integration
+google-generativeai
+
+# Database
+sqlalchemy
